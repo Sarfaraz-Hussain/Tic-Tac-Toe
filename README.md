@@ -5,7 +5,6 @@
 - The game is to be played between two people.
 - One of the player chooses ‘O’ and the other ‘X’ to mark their respective cells.
 - The game starts with one of the players and the game ends when one of the players has one whole row/ column/ diagonal filled with his/her respective character (‘O’ or ‘X’).
-![image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/implementation-tic-tac-toe.png)
 ---
 ## Demo of the Game
 - O wins
