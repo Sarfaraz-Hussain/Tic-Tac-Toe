@@ -7,9 +7,12 @@
 - The game starts with one of the players and the game ends when one of the players has one whole row/ column/ diagonal filled with his/her respective character (‘O’ or ‘X’).
 ---
 ## Demo of the Game
-- O wins
+### O wins
+---
 ![img](https://github.com/Sarfaraz-Hussain/project-TIC_TAC_TOE/blob/master/src/main/resources/images/image1.png)
-- X wins
+### X wins
+---
 ![image2](https://github.com/Sarfaraz-Hussain/project-TIC_TAC_TOE/blob/master/src/main/resources/images/image2.png)
-- Match Draw
+### Match Draw
+----
 ![image3](https://github.com/Sarfaraz-Hussain/project-TIC_TAC_TOE/blob/master/src/main/resources/images/image3.png)
