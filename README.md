@@ -9,8 +9,11 @@
 ---
 ## Demo of the Game
 - O wins
+---
 ![img](https://github.com/Sarfaraz-Hussain/project-TIC_TAC_TOE/blob/master/src/main/resources/images/image1.png)
 - X wins
+---
 ![image2](https://github.com/Sarfaraz-Hussain/project-TIC_TAC_TOE/blob/master/src/main/resources/images/image2.png)
 - Match Draw
+---
 ![image3](https://github.com/Sarfaraz-Hussain/project-TIC_TAC_TOE/blob/master/src/main/resources/images/image3.png)
