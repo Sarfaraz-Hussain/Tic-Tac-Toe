@@ -26,4 +26,7 @@ To deploy this project run
 mvn clean install
 java -jar target/Tic_Tac_Toe-1.0-SNAPSHOT-shaded.jar
 ```
+## Tech Stack
+
+_JavaFX, Java17, Maven_ 
 
