@@ -16,8 +16,6 @@
 ### Match Draw
 ----
 ![image3](https://github.com/Sarfaraz-Hussain/project-TIC_TAC_TOE/blob/master/src/main/resources/images/image3.png)
-
-
 ## Deployment
 
 To deploy this project run
@@ -28,5 +26,14 @@ java -jar target/Tic_Tac_Toe-1.0-SNAPSHOT-shaded.jar
 ```
 ## Tech Stack
 
-_JavaFX, Java17, Maven_ 
+_JavaFX, Java17, Maven_ ## Deployment
 
+To deploy this project run
+
+```bash
+mvn clean install
+java -jar target/Tic_Tac_Toe-1.0-SNAPSHOT-shaded.jar
+```
+## Tech Stack
+
+_JavaFX, Java17, Maven_ 
